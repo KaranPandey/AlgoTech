@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226650430181",
+    "firebase_url": "https://algotech-2d6a3.firebaseio.com",
+    "project_id": "algotech-2d6a3",
+    "storage_bucket": "algotech-2d6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226650430181:android:ff47fe420a2bd0fec6920c",
+        "android_client_info": {
+          "package_name": "com.example.algotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226650430181-mksk2jc99f1cptt7gmdu43pnd8v50kl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.algotech",
+            "certificate_hash": "0ea608567824a9a48da6821c073b0c26729090f9"
+          }
+        },
+        {
+          "client_id": "226650430181-7vgf9mu9h5hnlshv8llkp4383btlnc6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3iN8TQav5WVzQzD1hDbea9r5VPqnVsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226650430181-7vgf9mu9h5hnlshv8llkp4383btlnc6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
